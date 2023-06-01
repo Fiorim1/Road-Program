@@ -1,0 +1,143 @@
+header .title, .title-service {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+  }
+  
+  header .services {
+    color: black;
+    text-decoration: none;
+    margin-left: 29%;
+    font-family: 'Lobster', cursive;
+  }
+  
+  header .contact {
+    color: black;
+    text-decoration:none;
+    margin-left: 46%;
+    margin-top: -3.5%;
+    font-family: 'Lobster', cursive;
+  }
+  
+  header .location {
+    color: black;
+    text-decoration: none;
+    margin-left: 63%;
+    margin-top: -3.5%;
+    font-family: 'Lobster', cursive;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  main .text-about-the-site {
+    text-align: center;
+    font-size: 150%;
+  }
+  
+  main .spacing-10px {
+    height: 10px;
+  }
+  
+  main .spacing-20px {
+    height: 20px;
+  }
+  
+  main .contact-text {
+    color: black;
+    text-decoration: none;
+  }
+  
+  main .how-we-start, .squad, .text-about-our-services, .title-about-shop-aplication, .means-of-payment,
+  .title-contact, .title-location{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 150%;
+  }
+  
+  main .starter-this, .text-about-our-contact, .text-about-location, .text-location  {
+    text-align: center;
+    font-size: 150%;
+  }
+
+  main .spacing-30px {
+    height: 30px;
+  }
+
+  main .perfil-1 {
+    margin-left: 20%;
+  }
+
+  .spacing-57px {
+    height: 47px;
+  }
+
+  header .back-home {
+    font-family: 'Lobster', cursive;
+    font-size: 120%;
+    color: black;
+    text-decoration: none;
+    margin-left: 6%;
+  }
+
+  main .spacing-22px {
+    height: 22px;
+  }
+
+  main .shop-aplication {
+    margin-left: 4%;
+  }
+
+  main .title-about-shop-aplication {
+    margin-left: 38%;  
+    margin-top: -20%;
+  }
+
+  main .text-about-shop-aplication {
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 5%;
+    font-size: 150%;
+  }
+
+  main .spacing-8px {
+    height: 8px;
+  }
+
+  main .icon-shop-car {
+    margin-left:69% ;
+    border: 2px solid black;
+   border-radius: 30%;
+  }
+
+
+  header .means-of-payment-below {
+    text-align: center;
+    font-size: 150%;
+  }
+
+ main .blt, .pix, .credit-card, .whatsapp-icon, .instagram-icon, .facebook-icon, .telegram-icon, .twitter-icon   {
+  background-color: beige;
+  margin-left: 3%;
+  background-repeat:no-repeat ;
+  border: 3px solid black;
+  border-radius: 20%;
+ }
+
+ main .pix {
+  margin-left: 20.3%;
+ }
+
+main .credit-card {
+  margin-left: 31%;
+}
+
+.whatsapp-icon {
+  margin-left: 5%;
+}
+
+main .map {
+  margin-left: 28%;
+  
+}
